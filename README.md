@@ -7,7 +7,8 @@ My plan to get a job as a SOC Analyst in 6 months (I think it might take longer,
 Let me know if you notice anything I can improve!!
 (I’m not starting from scratch, but this repository contains a detailed roadmap for becoming a SOC Analyst, focusing on the most demanded skills, certifications, and practical projects that I realized by researching job openings and studying on top of it, I would add CCNA course)
 
-
+You can Download the PLAN: [LaTeX Version](Plan.tex)
+or: [PDF Version](Plan.pdf)
 ---
 
 ## Table of Contents
